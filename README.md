@@ -51,7 +51,7 @@ Feel free to modify the code to customize the candidate symbols and the number o
 -**Immutable and Verifiable Results**: With the integration of Polygon blockchain, election results become immutable and easily verifiable by all stakeholders, ensuring a fair and trustworthy outcome.
 
 
-## Wordking Demo:
+## Working Demo:
 
 
 https://github.com/shlokrp/EVM-using-arduino/assets/94191611/52831f1c-7532-4032-8405-923d85be49f4
