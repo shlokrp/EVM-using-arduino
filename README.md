@@ -7,7 +7,8 @@ This project demonstrates an Electronic Voting Machine (EVM) built using Arduino
 - **Efficient and Cost-effective:** By eliminating the use of ballot papers, the electronic voting machine (EVM) saves manpower and reduces costs associated with printing and distributing paper ballots.
 - **Easy Customization:** The EVM allows for customization of candidate symbols and the number of candidates, making it adaptable to different election scenarios and candidate requirements.
 - **User-friendly Interface:** With a simple LCD display, the EVM provides a clear and intuitive interface for voters to cast their votes and view the results, ensuring ease of use for all participants.
-## Matariel Required: 
+- 
+## Material Required: 
 1)  Arduino UNO Board
 2)  16x2 LCD Display
 3)  Push Button Switch * (no. of candidates +1)
