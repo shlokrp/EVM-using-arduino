@@ -25,17 +25,17 @@ This project demonstrates an Electronic Voting Machine (EVM) built using Arduino
 
 Feel free to modify the code to customize the candidate symbols and the number of candidates.
 
-Future Scope
-In future, we plan to upgrade the EVM by incorporating the following enhancements:
+## Future Scope
+-In future, we plan to upgrade the EVM by incorporating the following enhancements:
 
-Integration with ESP32 Board or Node MCU: We will transition from Arduino Uno to the more advanced ESP32 board. This upgrade will provide enhanced processing power, better connectivity by using wifi, and improved compatibility with high storage to manage API.
+-**Integration with ESP32 Board or Node MCU**: We will transition from Arduino Uno to the more advanced ESP32 board. This upgrade will provide enhanced processing power, better connectivity by using wifi, and improved compatibility with high storage to manage API.
 
-Blockchain Integration with Polygon: To ensure the security, transparency, and tamperproof nature of the voting process, we will integrate the EVM with Polygon blockchain(Which is Layer 2 chain of Ethereum, hence it is super fast and cheaper and perfect for such projects.) Each vote will be recorded as a transaction on the blockchain, providing an immutable and auditable ledger of all voting activities.
+-**Blockchain Integration with Polygon**: To ensure the security, transparency, and tamperproof nature of the voting process, we will integrate the EVM with Polygon blockchain(Which is **Layer 2 chain of Ethereum, hence it is super fast and cheaper and perfect for such projects.**) Each vote will be recorded as a transaction on the blockchain, providing an immutable and auditable ledger of all voting activities.
 
-Tamperproof Records: Blockchain technology ensures that once a vote is recorded on the blockchain, it cannot be altered or tampered with, thereby enhancing the integrity of the voting process.
+-**Tamperproof Records**: Blockchain technology ensures that once a vote is recorded on the blockchain, it cannot be altered or tampered with, thereby enhancing the integrity of the voting process.
 
-Transparency and Auditability: The use of blockchain enables transparent and auditable voting records, allowing stakeholders to verify the authenticity of votes and maintain trust in the system.
+-**Transparency and Auditability**: The use of blockchain enables transparent and auditable voting records, allowing stakeholders to verify the authenticity of votes and maintain trust in the system.
 
-Enhanced Security: The decentralized nature of blockchain and the cryptographic techniques employed ensure a high level of security, protecting voting data from unauthorized access or manipulation.
+-**Enhanced Security**: The decentralized nature of blockchain and the cryptographic techniques employed ensure a high level of security, protecting voting data from unauthorized access or manipulation.
 
-Immutable and Verifiable Results: With the integration of Polygon blockchain, election results become immutable and easily verifiable by all stakeholders, ensuring a fair and trustworthy outcome.
+-**Immutable and Verifiable Results**: With the integration of Polygon blockchain, election results become immutable and easily verifiable by all stakeholders, ensuring a fair and trustworthy outcome.
